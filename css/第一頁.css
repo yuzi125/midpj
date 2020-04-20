@@ -1,0 +1,38 @@
+#table1 {
+    text-align: center;
+    margin-top: 12px; 
+    margin-left: 350px;
+    display: flex;
+    
+}
+#contain{
+    background-color:azure ;
+    border: 2px solid purple;
+}
+#move{
+    background-color: cornflowerblue;
+
+}
+footer{
+    background-color: chartreuse;
+}
+
+
+#title{
+    text-align: center;
+    background-color: bisque;
+    width: 99.9%;
+    height: 100px;
+}
+#title ul li{
+    margin-left: 1300px;
+    list-style-type: none;
+}
+#title ul a{
+    padding: 5px;
+    background-color: darkorange;
+}
+#title ul a:hover{
+    padding: 5px;
+    background-color:crimson;
+}
